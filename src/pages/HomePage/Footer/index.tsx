@@ -57,7 +57,7 @@ const Footer = () =>  {
         </div> 
     </footer>
     <div className={styles.frame}>
-      <p>Copyright 2022 Uifry.Com All Rights Reserved </p>
+      <p>Copyright 2024 Uifry.Com All Rights Reserved </p>
     </div>
     </section>
   );
